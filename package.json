@@ -1,0 +1,12 @@
+{
+  "name": "bin2dec",
+  "version": "1.0.0",
+  "description": "Binary-to-Decimal number converter",
+  "main": "index.html",
+  "repository": "git@github.com:almeidajr/bin2dec.git",
+  "author": "Jose Rogerio de Almeida Junior <almeidajr.vr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
